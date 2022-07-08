@@ -96,5 +96,5 @@ SOFTWARE.
 ## Author Info
 
 - LinkedIn - [@jedd_ish](https://www.linkedin.com/in/jedd-alcalde-b07b95227/) [@alianna-panganiban](https://www.linkedin.com/in/alianna-panganiban)
-
+Testing readme push from pycharm
 [Back To The Top](#NewHairForLifeNY-Website)
