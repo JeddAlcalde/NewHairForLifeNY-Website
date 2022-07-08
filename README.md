@@ -58,7 +58,7 @@ Website giving users information on New Hair For Life. Shows users before and af
 
 ## References
 
-- LinkedIn - [@jedd_ish](https://www.linkedin.com/in/jedd-alcalde-b07b95227/)
+- LinkedIn - [@jedd_ish](https://www.linkedin.com/in/jedd-alcalde-b07b95227/) [@alianna-panganiban](https://www.linkedin.com/in/alianna-panganiban)
 - Discord - J2A-WebDevs(https://discord.gg/RUEqkCUF)
 
 [Back To The Top](#NewHairForLifeNY-Website)
@@ -95,6 +95,6 @@ SOFTWARE.
 
 ## Author Info
 
-- LinkedIn - [@jedd_ish](https://www.linkedin.com/in/jedd-alcalde-b07b95227/)
+- LinkedIn - [@jedd_ish](https://www.linkedin.com/in/jedd-alcalde-b07b95227/) [@alianna-panganiban](https://www.linkedin.com/in/alianna-panganiban)
 
 [Back To The Top](#NewHairForLifeNY-Website)
