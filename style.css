@@ -9,7 +9,6 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    border: solid black 2px;
 }
 
 .header .contact-request{
@@ -18,7 +17,6 @@ body {
 
 .header-text {
     flex-direction: column;
-    border: solid black 2px;
     margin-right: auto;
 }
 
@@ -28,19 +26,20 @@ body {
     margin-bottom: auto;
     margin-left: auto;
     margin-right: 5px;
-    border: solid black 2px;
     margin-left: auto;
 }
 
 .contact-request button {
     height: 60px;
     border-radius: 8px;
+    border-style: solid;
+    border-color: grey;
+    background-color: #e1e3e6;
 }
 
 .description {
     flex-direction: row;
     justify-content: flex-start;
-    border: solid black 2px;
     width: 700;
 
 }
@@ -48,19 +47,23 @@ body {
 .brief-about {
     word-wrap: break-word;
     width: 690px;
-    border: solid black 2px;
     margin-right: auto;
     margin-top: 50px;
 }
 
 .about-title {
-    border: solid black 2px;
+}
+
+.lead-stats {
+}
+
+.lead-ads {
+
 }
 
 .model-img {
     height: 400px;
     width: 400px;
-    border: solid black 2px;
     margin-left: auto;
     margin-top: -250px;
     margin-bottom: auto;
@@ -76,4 +79,6 @@ body {
 .about-alona {
     background-color: white;
     border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
