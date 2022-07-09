@@ -81,6 +81,15 @@ body {
     border-radius: 10px;
     padding-left: 15px;
     padding-right: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.about-page-link{
+    border-style: solid;
+    background-color: white;
+    margin-bottom: 10px;
+    border-color: white;
 }
 
 .about-alona {
