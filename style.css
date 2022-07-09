@@ -76,9 +76,70 @@ body {
     object-fit: contain;
 }
 
-.about-alona {
+.about-clinic {
     background-color: white;
     border-radius: 10px;
     padding-left: 15px;
     padding-right: 15px;
 }
+
+.about-alona {
+    display: flex;
+    flex-direction: column;
+    background-color: #daf0f7;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    justify-content: center;
+    align-items: center;
+}
+
+.alona-pic-border {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.alona-pic {
+    width: 400px;
+    height: 400px;
+    text-align: center;
+}
+
+.alona-caption {
+    text-align: center;
+}
+
+.operations {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.operations-pic {
+    display: block;
+    height: 250px;
+    width: 250px;
+    background-color: white;
+    text-align: center;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+
+.in-progress-operation {
+    display: block;
+    height: 250px;
+    width: 250px;
+    float: left;
+}
+
+.operations-text{
+    text-align: left;
+    flex-direction: column;
+    width: auto;
+}
+
