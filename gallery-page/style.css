@@ -1,0 +1,36 @@
+body {
+    background-color: #e1e3e6;
+    font-family: "Roboto";
+    margin-left: 400px;
+    margin-right: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.gallery-showcase {
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    justify-content: center;
+}
+
+.pic1 {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.sample-showcase {
+    flex-direction: column;
+    width: auto;
+    justify-content: center;
+}
+
+.sample-1-3 {
+    flex-direction: row;
+    justify-content: center;
+}
+
+.sample-4-5 {
+    flex-direction: row;
+    justify-content: center;
+}
