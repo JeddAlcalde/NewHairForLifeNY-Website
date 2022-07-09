@@ -1,0 +1,81 @@
+body {
+    background-color: #e1e3e6;
+    font-family: "Roboto";
+    margin-left: 400px;
+    margin-right: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-text {
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+    border-radius: 10px;
+    justify-content: space-around;
+}
+
+.property-caption,
+.operation-description{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.property-photo {
+    display: block;
+    height: 400px;
+    width: 500px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.property-text {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 400px;
+    width: 500px;
+    border: 2px solid black;
+}
+
+.main-staff {
+    display: flex;
+    flex-direction: column;
+}
+
+.main-staff div {
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.person {
+    display: flex;
+    flex-direction: row;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.main-doc-photo {
+    display: flex;
+    height: 300px;
+    width: 550px;
+    border: 2px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.person-description {
+    margin-left: 20px;
+    margin-right: 20px;
+}
