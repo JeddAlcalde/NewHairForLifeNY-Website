@@ -1,0 +1,84 @@
+body {
+    background-color: #e1e3e6;
+    font-family: "Roboto";
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+.header .contact-request{
+    justify-content: flex-end;
+}
+
+.header-text {
+    flex-direction: column;
+    margin-right: auto;
+}
+
+.contact-request {
+    align-items: flex-end;
+    margin-top: 15px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: 5px;
+    margin-left: auto;
+}
+
+.contact-request button {
+    height: 60px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: grey;
+    background-color: #e1e3e6;
+}
+
+.description {
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 700;
+
+}
+
+.brief-about {
+    word-wrap: break-word;
+    width: 690px;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.about-title {
+}
+
+.lead-stats {
+}
+
+.lead-ads {
+
+}
+
+.model-img {
+    height: 400px;
+    width: 400px;
+    margin-left: auto;
+    margin-top: -250px;
+    margin-bottom: auto;
+    justify-content: flex-end;
+}
+
+.model-img img {
+    height: 400px;
+    width: 400px;
+    object-fit: contain;
+}
+
+.about-alona {
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
