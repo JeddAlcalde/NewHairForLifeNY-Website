@@ -11,6 +11,13 @@ body {
     justify-content: flex-start;
 }
 
+.NHFLNY-logo {
+    margin-right: 150px;
+    background-color: #daf0f7;
+    height: 300px;
+    width: 300px;
+}
+
 .header .contact-request{
     justify-content: flex-end;
 }
@@ -55,6 +62,7 @@ body {
 }
 
 .lead-stats {
+    font-size: 40em;
 }
 
 .lead-ads {
